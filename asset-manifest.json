@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/test-avito/static/css/main.2f1b0f7f.chunk.css",
-    "main.js": "/test-avito/static/js/main.015a1ee4.chunk.js",
-    "main.js.map": "/test-avito/static/js/main.015a1ee4.chunk.js.map",
+    "main.css": "/test-avito/static/css/main.3d75ecd5.chunk.css",
+    "main.js": "/test-avito/static/js/main.002f9c69.chunk.js",
+    "main.js.map": "/test-avito/static/js/main.002f9c69.chunk.js.map",
     "runtime-main.js": "/test-avito/static/js/runtime-main.d159f565.js",
     "runtime-main.js.map": "/test-avito/static/js/runtime-main.d159f565.js.map",
     "static/js/2.fd76bcdf.chunk.js": "/test-avito/static/js/2.fd76bcdf.chunk.js",
     "static/js/2.fd76bcdf.chunk.js.map": "/test-avito/static/js/2.fd76bcdf.chunk.js.map",
     "index.html": "/test-avito/index.html",
-    "precache-manifest.0e6a01cf75540dd996eda654c22228ad.js": "/test-avito/precache-manifest.0e6a01cf75540dd996eda654c22228ad.js",
+    "precache-manifest.ec0e312f4c884ed5d8fe0eefcc86d972.js": "/test-avito/precache-manifest.ec0e312f4c884ed5d8fe0eefcc86d972.js",
     "service-worker.js": "/test-avito/service-worker.js",
-    "static/css/main.2f1b0f7f.chunk.css.map": "/test-avito/static/css/main.2f1b0f7f.chunk.css.map",
+    "static/css/main.3d75ecd5.chunk.css.map": "/test-avito/static/css/main.3d75ecd5.chunk.css.map",
     "static/js/2.fd76bcdf.chunk.js.LICENSE.txt": "/test-avito/static/js/2.fd76bcdf.chunk.js.LICENSE.txt",
     "static/media/error-image.png": "/test-avito/static/media/error-image.79a8a2f3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d159f565.js",
     "static/js/2.fd76bcdf.chunk.js",
-    "static/css/main.2f1b0f7f.chunk.css",
-    "static/js/main.015a1ee4.chunk.js"
+    "static/css/main.3d75ecd5.chunk.css",
+    "static/js/main.002f9c69.chunk.js"
   ]
 }

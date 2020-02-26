@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa9b78b3c9c212f1c07d141916a4f29b",
+    "revision": "0d086b5dea97cb4d0e8f17aa51dea4df",
     "url": "/test-avito/index.html"
   },
   {
-    "revision": "ba123859a09851989ea3",
-    "url": "/test-avito/static/css/main.2f1b0f7f.chunk.css"
+    "revision": "04dfcbbc9e505972ae9a",
+    "url": "/test-avito/static/css/main.3d75ecd5.chunk.css"
   },
   {
     "revision": "02a9dfe09a116b1943d7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-avito/static/js/2.fd76bcdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba123859a09851989ea3",
-    "url": "/test-avito/static/js/main.015a1ee4.chunk.js"
+    "revision": "04dfcbbc9e505972ae9a",
+    "url": "/test-avito/static/js/main.002f9c69.chunk.js"
   },
   {
     "revision": "13dcef0a70a8ecf3c751",
