@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59d692606f3ba17c3b955470aab72f26",
+    "revision": "fa9b78b3c9c212f1c07d141916a4f29b",
     "url": "/test-avito/index.html"
   },
   {
-    "revision": "65c23ecfafd44d25f74d",
-    "url": "/test-avito/static/css/main.8df44cfe.chunk.css"
+    "revision": "ba123859a09851989ea3",
+    "url": "/test-avito/static/css/main.2f1b0f7f.chunk.css"
   },
   {
     "revision": "02a9dfe09a116b1943d7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-avito/static/js/2.fd76bcdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65c23ecfafd44d25f74d",
+    "revision": "ba123859a09851989ea3",
     "url": "/test-avito/static/js/main.015a1ee4.chunk.js"
   },
   {
